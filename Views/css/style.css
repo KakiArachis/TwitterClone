@@ -60,6 +60,11 @@ a {
     color:#1af;
     text-decoration: none;
 }
+
+.text-sm {
+    font-size: 0.7rem;
+}
+
 /*
 サイド
 ****/
