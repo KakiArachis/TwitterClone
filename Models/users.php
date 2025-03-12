@@ -9,7 +9,7 @@
     * @param array $data
     * @return bool
     */
-    function createuser(array $data)
+    function createUser(array $data)
     {
         //DB接続
         $mysqli = new mysqli(DB_HOST,DB_USER,DB_PASSWORD,DB_NAME);
